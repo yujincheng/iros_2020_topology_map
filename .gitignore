@@ -1,4 +1,5 @@
 /root.*
+ref/
 !/root.tex
 *.log 
 *.aux 
